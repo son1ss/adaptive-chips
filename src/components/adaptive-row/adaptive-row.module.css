@@ -1,0 +1,9 @@
+.row {
+  display: flex;
+}
+
+.element {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
